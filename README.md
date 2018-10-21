@@ -8,4 +8,4 @@ Object-oriented programming techniques using C++: abstract data types and object
 Specification, implementations, and analysis of basic data structures (stacks, queues, graphs, hash tables, binary trees) and their applications in sorting and searching algorithms. 
 
 # CSCI 187: Design Management of Softwar
-Students will learn best practices for the design and implementation of large software projects, including building their own quarter-long programming project. In addition to discussing and enacting the systems development life cycle, students will learn the basics of user experience design and formal software verification. 
+Design and implementation of large software projects, including building in a group a quarter-long programming project. In addition to discussing and enacting the systems development life cycle, students learn the basics of user experience design and formal software verification. 
